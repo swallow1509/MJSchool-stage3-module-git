@@ -4,7 +4,7 @@ secondFile.txt in git_1 branch
 secondFile.txt in git_1 branch
 secondFile.txt in git_1 branch
 secondFile.txt in git_1 branch
-secondFile.txt in git_1 branch
-secondFile.txt in git_1 branch
+Update with different info secondFile.txt in git_1 branch
+Update again, with different info secondFile.txt in git_1 branch
 secondFile.txt in git_1 branch
 secondFile.txt in git_1 branch
