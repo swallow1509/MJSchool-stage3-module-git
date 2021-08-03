@@ -1,10 +1,10 @@
+Modify firstFile.txt in git_1 branch
+Modify firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
-firstFile.txt in git_1 branch
-firstFile.txt in git_1 branch
-firstFile.txt in git_1 branch
-firstFile.txt in git_1 branch
+Modify another two lines firstFile.txt in git_1 branch
+Modify another two lines firstFile.txt in git_1 branch
