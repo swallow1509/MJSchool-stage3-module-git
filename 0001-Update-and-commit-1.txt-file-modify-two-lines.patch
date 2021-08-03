@@ -1,0 +1,24 @@
+From 96a715d6555b276b1cbef48600703422a22637a1 Mon Sep 17 00:00:00 2001
+From: Umidbek <umidbek.yusupov.98@mail.ru>
+Date: Tue, 3 Aug 2021 17:41:28 +0500
+Subject: [PATCH] Update and commit 1.txt file, modify two lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 40dc474..1db3635 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-firstFile.txt in git_1 branch
+-firstFile.txt in git_1 branch
++Modify firstFile.txt in git_1 branch
++Modify firstFile.txt in git_1 branch
+ firstFile.txt in git_1 branch
+ firstFile.txt in git_1 branch
+ firstFile.txt in git_1 branch
+-- 
+2.25.1
+
