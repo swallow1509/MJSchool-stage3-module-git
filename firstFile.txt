@@ -3,6 +3,7 @@ Modify firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 Change two lines in firstFile.txt. Commit + Push.
 Change two lines in firstFile.txt. Commit + Push.
+blah blah
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
 firstFile.txt in git_1 branch
